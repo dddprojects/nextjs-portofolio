@@ -1,4 +1,5 @@
 ## Getting Started
+mockup
 
 Run the development server & build:
 
@@ -11,6 +12,3 @@ yarn dev
 yarn build
 ```
 
-# view
-
-# mockup
